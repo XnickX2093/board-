@@ -1,0 +1,19 @@
+body {
+    background-image: url(../img/restaurant.jpg);
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+}
+
+.logo a {
+    color: rgba(20, 23, 177, 0.9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
+
+
+
